@@ -7,6 +7,7 @@ A way to more efficiently install the soulseekqt.AppImage of the Music-sharing p
 sudo git clone https://github.com/Qand7/qsoulseek /usr/share/qslsk
 sudo chmod +x /usr/share/qslsk/install.sh
 sudo /usr/share/qslsk/install.sh
+sudo qslsk
 ````
 
 ## Uninstall
