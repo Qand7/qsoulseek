@@ -11,4 +11,5 @@ sudo /usr/share/qslsk/install.sh
 ````
 sudo chmod +x /usr/share/qslsk/delete.sh
 sudo /usr/share/qslsk/delete.sh
+sudo rm -rf /usr/share/qslsk
 ````
