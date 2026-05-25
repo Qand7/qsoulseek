@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Soulseek
+Comment=File Sharing platform with an emphasis on music.
+GenericName=File Sharing
+Exec=/usr/bin/soulseek
+Icon=soulseek
+Type=Application
+Categories=Network;
