@@ -10,6 +10,6 @@ sudo cp /usr/share/qslsk/soulseek.desktop /usr/share/applications/soulseek.deskt
 sudo chmod +x /usr/share/applications/soulseek.desktop
 
 sudo mkdir -p /usr/share/icons/hicolor/scalable/apps/
-sudo cp soulseek.png /usr/share/icons/hicolor/scalable/apps/soulseek.svg
+sudo cp /usr/share/qslsk/soulseek.png /usr/share/icons/hicolor/scalable/apps/soulseek.svg
 
 
