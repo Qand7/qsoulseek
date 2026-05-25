@@ -3,6 +3,6 @@ Name=Soulseek
 Comment=File Sharing platform with an emphasis on music.
 GenericName=File Sharing
 Exec=/usr/bin/soulseek
-Icon=soulseek
+Icon=/usr/share/icons/hicolor/scalable/apps/soulseek.svg
 Type=Application
 Categories=Network;
