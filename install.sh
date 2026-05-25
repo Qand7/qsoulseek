@@ -1,12 +1,12 @@
 #!/bin/bash
 
-sudo cp qslsk /usr/bin/qslsk
+sudo cp /usr/share/qslsk/qslsk /usr/bin/qslsk
 sudo chmod +x /usr/bin/qslsk
 
-sudo cp soulseek /usr/bin/soulseek
+sudo cp /usr/share/qslsk/soulseek /usr/bin/soulseek
 sudo chmod +x /usr/bin/soulseek
 
-sudo cp soulseek.desktop /usr/share/applications/soulseek.desktop
+sudo cp /usr/share/qslsk/soulseek.desktop /usr/share/applications/soulseek.desktop
 sudo chmod +x /usr/share/applications/soulseek.desktop
 
 sudo mkdir -p /usr/share/icons/hicolor/scalable/apps/
